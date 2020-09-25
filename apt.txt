@@ -1,2 +1,2 @@
-bgl1-mesa-dev
+libgl1-mesa-dev
 xvfb
