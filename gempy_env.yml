@@ -16,7 +16,10 @@ dependencies:
   - jupyter_contrib_nbextensions
   - mkl-service
   - rasterio
+  - panel
+  - pandas
   - pip
   - pip:
     - gempy
     - elevation
+    - pyevtk

@@ -1,0 +1,15 @@
+name: tiga-pyista
+channels:
+  - conda-forge
+dependencies:
+  - python >= 3.7
+  - scipy
+  - matplotlib
+  - pyvista
+  - vtk
+  - imageio
+  - meshio
+  - itkwidgets
+  - panel
+  - voila
+
