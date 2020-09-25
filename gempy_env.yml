@@ -1,0 +1,22 @@
+name: tiga-gempy
+channels:
+  - conda-forge
+dependencies:
+  - python >= 3.7
+  - scipy
+  - matplotlib
+  - pandas
+  - geopandas
+  - jupyterlab
+  - voila
+  - rise
+  - ipywidgets
+  - nodejs
+  - ipympl
+  - jupyter_contrib_nbextensions
+  - mkl-service
+  - rasterio
+  - pip
+  - pip:
+    - gempy
+    - elevation

@@ -1,0 +1,23 @@
+name: tiga-ipyleaflet
+channels:
+  - conda-forge
+dependencies:
+  - python >= 3.7
+  - scipy
+  - matplotlib
+  - pandas
+  - geopandas
+  - jupyterlab
+  - voila
+  - rise
+  - ipywidgets
+  - nodejs
+  - ipympl
+  - jupyter_contrib_nbextensions
+  - rasterio
+  - ipyleaflet
+  - nodejs
+  - pip
+  - pip:
+    - elevation
+    - gdal2tiles
